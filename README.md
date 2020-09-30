@@ -1,2 +1,2 @@
 # demo_project
-demo rust project
+This is a demo rust project
